@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It takes more time in random.txt and less time in sorted.txt
+
+sort2 uses: merge sort
+
+How do you know?: It takes less time in both random.txt and sorted.txt
+
+sort3 uses: selection sort
+
+How do you know?: It takes more time in random.txt and more time in sorted.txt
